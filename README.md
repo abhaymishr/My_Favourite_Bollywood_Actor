@@ -1,2 +1,5 @@
-# My_Favourite_Bollywood_Actor
-Created with CodeSandbox
+# My Favourite BollyWood Actors
+
+This application tells about my favorite bollywood Actor!!!
+
+
